@@ -7,7 +7,7 @@
 <br>
 
 ### 테스트 링크
-[https://jongin403.github.io/react-complete-guide/index.html](https://jongin403.github.io/react-complete-guide/index.html)  
+[https://jongin403.github.io/react-complete-guide](https://jongin403.github.io/react-complete-guide)  
 <br>
 
 ### 로컬에서 실행하는 방법
