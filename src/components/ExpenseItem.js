@@ -8,7 +8,7 @@ function ExpenseItem(props) {
         date={props.date}
       />
       <div className="expense-item__description">
-        <h2>{props.title}</h2>
+        <h2>{props.title} 배포 테스트</h2>
         <div className="expense-item__price">${props.amount}</div>
       </div>
     </div>
