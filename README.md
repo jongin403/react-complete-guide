@@ -9,7 +9,7 @@
 <br>
 
 ### 테스트 링크
-[https://jongin403.github.io/react-complete-guide](https://jongin403.github.io/react-complete-guide)  
+[https://react-complete-guide-blush.vercel.app/](https://react-complete-guide-blush.vercel.app/)  
 <br>
 
 ### 로컬에서 실행하는 방법
