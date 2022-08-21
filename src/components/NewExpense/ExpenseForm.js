@@ -40,6 +40,12 @@ const ExpenseForm = () => {
     };
 
     console.log(expenseDate);
+
+    setUserInput({
+      enteredTitle: "",
+      enteredAmount: "",
+      enteredDate: "",
+    });
   };
 
   return (
